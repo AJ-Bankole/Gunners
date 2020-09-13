@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Raleway&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  ;
+}
+
+body {
+  background-color: #ffd1d3;
+  font-family: Raleway;
+}
+
+h1, h3 {
+  font-family: Poppins;
+}
+
+#logoholder {
+  padding-bottom: 5px;
+  height: 150px;
+  position: relative;
+}
+
+#logo {
+  color: red;
+  display: inherit;
+  font-size: 40px;
+  position: relative;
+  bottom: 75px;
+  left: 10px;
+}
+
+#logoholder a {
+  text-decoration: none;
+  padding-bottom: 50px;
+}
+
+#logoholder p {
+  position: relative;
+  bottom: 80px;
+  left: 170px;
+  height: 100px;
+  width: 310px;
+  line-height: 15px;
+}
+
+
+#menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size: 120%;
+  background-color: #a7a7a7; 
+  position: sticky;
+  overflow: hidden;
+  border: 2px solid #fff;
+  width: 100%;
+  
+}
+
+#menu li {
+  float: left;
+  color: #fff;
+  border-right: 2px solid #fff;
+}
+
+#menu li:last-child {
+  border-left: 2px solid #fff;
+  border-right: none;
+}
+
+#menu li a {
+  padding: 10px;
+  display: block;
+  text-align: center;
+}
+
+#menu li a:hover {
+  background-color: #e70b0b;
+  color: #fff; 
+}
+
+#logoholder, #menu {
+  line-height: 50px;
+}
+
+#hero-image {
+  height: 400px;
+  width: 100%;
+  background: url(https://thefa.shorthandstories.com/fa-cup-finals-the-winners-list/assets/zKWQGNclL4/2560-arsenal-celeb-2560x1440.jpeg) no-repeat center center;
+  background-size: 100%;
+}
+
+.content-1-title {
+  padding-left: 140px;
+  padding-top: 20px;
+}
+
+.content-1 {
+  background-color: white;
+  width: 95%;
+  display: block;
+  overflow: auto;
+  margin: 10px auto;
+  border: 1px solid white;
+  border-radius: 25px;
+}
+.reddit-top-month {
+  position: relative;
+  float: left;
+  padding: 5px;
+  padding-right: 50px;
+  border-right: solid 1px #a7a7a7;
+  left: 50px;
+  width: 500px;
+  display: inline;
+}
+
+.reddit-top-month blockquote {
+  display: inline;
+  
+  
+}
+
+#Reddit-IMG-Ad {
+  position: relative;
+  right: 40px;
+  top: 100px;
+  float: right;
+  display: inline;
+  
+  width: 300px;
+  height: 100%;
+
+}
+
+#Reddit-IMG-Ad img {
+  position: relative;
+  left: 18px;
+  padding: 30px;
+  border: 2px solid #a7a7a7;
+}
+
+#Reddit-IMG-Ad h3 {
+  position: relative;
+  top: 0px;
+  text-align: center;
+}
