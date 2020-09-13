@@ -1,39 +1,93 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Gunners
 
-Welcome USER_NAME,
+**Gunners** is a website dedicated to Arsenal Football Club. It is essentially a hub for the r/gunners [subreddit](https://reddit.com/r/gunners).
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
 
-## Gitpod Reminders
+## UX
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+As I mentioned, I designed this site to be a hub for r/gunners. 
 
-`python3 -m http.server`
+Reddit can be confusing if you're not a regular user- it can be hard to find the type of content that interests you. I've recommended certain subreddits to my friends, but they have struggled with the navigation of the website. 
 
-A blue button should appear to click: *Make Public*,
+The goal of this project is to bridge the gap between the subreddit's community and the wider *Arsenal-supporting* community by showcasing some of it's top content and providing links to certain parts of reddit which user's may be interested in.
 
-Another blue button should appear to click: *Open Browser*.
+This website isn't exclusively a hub for r/gunners however, as there are a number of other pages which provide information about various aspects around the club.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A blue button should appear to click: *Make Public*,
+### User Stories:
 
-Another blue button should appear to click: *Open Browser*.
+* As an Arsenal fan, I want to have everything I need to know about the club all in the same place.
+* I'd like a browser homepage that relates to my interest in Arsenal and gives me a shortcut to useful info such as upcoming fixtures.
+* I'm not necessarily a reddit user, however I enjoy some content especially in regards to Arsenal; I'd like to have a streamlined version of r/gunners with which I can easily find some of the more significant posts.
+* I **am** a reddit user, and also an Arsenal fan. Reddit can be overwhelming & distracting sometimes; I'd like a shortcut to my favorite subreddit so I don't end up spending more time on the site/app than I plan to.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
 
-## Updates Since The Instructional Video
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+## Features
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+### Existing Features:
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+1. **Homepage** - Acts as a streamlined [r/gunners](https://reddit.com/r/gunners). Contains embedded posts from reddit and an embedded widget with the entire subreddit.
+2. **Homepage links** - Contains non-embedded links to other subreddits, and a link for non-users to sign up and join reddit.
+3. **Fixtures page** - Contains a list of upcoming fixtures for the 20/21 season.
+4. **Squad page** - Contains a list of players in the current squad.
+5. **Official page** - Contains links to the clubs official channels (Website, Social media), as well as links to official merchandising.
+6. **Our Friends page** - Contains links to other Arsenal fan projects, such as *AFTV* and *Arseblog*.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
---------
+### Features Left to Implement
 
-Happy coding!
+* **News / Transfers** - In the future i'd like to implement a regularly updated news / transfers page.
+
+## Technologies Used
+
+* **HTML** - Used to structure my website
+* **CSS** - Used to style/design my website
+
+I used code from the following websites:
+
+* **Reddit.com** - I embedded some posts from Reddit on my website
+* **Redditjs.com** - I embedded a widget from Redditjs in order to have a mini version of r/gunners on my homepage.
+
+
+
+
+
+Testing
+In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+
+Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+
+For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+
+Contact form:
+Go to the "Contact Us" page
+Try to submit the empty form and verify that an error message about the required fields appears
+Try to submit the form with an invalid email address and verify that a relevant error message appears
+Try to submit the form with all inputs valid and verify that a success message appears.
+In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+
+You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+
+If this section grows too long, you may want to split it off into a separate file and link to it from here.
+
+Deployment
+This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+
+In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
+
+Different values for environment variables (Heroku Config Vars)?
+Different configuration files?
+Separate git branch?
+In addition, if it is not obvious, you should also describe how to run your code locally.
+
+Credits
+Content
+The text for section Y was copied from the Wikipedia article Z
+Media
+The photos used in this site were obtained from ...
+Acknowledgements
+I received inspiration for this project from X
