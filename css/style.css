@@ -106,13 +106,14 @@ h1, h3 {
   border: 1px solid white;
   border-radius: 25px;
 }
+
 .reddit-top-month {
   position: relative;
   float: left;
   padding: 5px;
   padding-right: 50px;
   border-right: solid 1px #a7a7a7;
-  left: 50px;
+  left: 100px;
   width: 500px;
   display: inline;
 }
@@ -137,13 +138,14 @@ h1, h3 {
 
 #Reddit-IMG-Ad img {
   position: relative;
-  left: 18px;
+  right: 50px;
   padding: 30px;
   border: 2px solid #a7a7a7;
 }
 
 #Reddit-IMG-Ad h3 {
   position: relative;
+  right: 65px;
   top: 0px;
   text-align: center;
 }
