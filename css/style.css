@@ -111,7 +111,7 @@ h1, h3 {
   position: relative;
   float: left;
   padding: 5px;
-  padding-right: 50px;
+  padding-right: 150px;
   border-right: solid 1px #a7a7a7;
   left: 100px;
   width: 500px;
@@ -130,7 +130,7 @@ h1, h3 {
   top: 100px;
   float: right;
   display: inline;
-  
+  padding-right: 40px;
   width: 300px;
   height: 100%;
 
@@ -138,14 +138,15 @@ h1, h3 {
 
 #Reddit-IMG-Ad img {
   position: relative;
-  right: 50px;
-  padding: 30px;
+  left: 60px;
+  /*padding: 30px;*/
   border: 2px solid #a7a7a7;
 }
 
 #Reddit-IMG-Ad h3 {
   position: relative;
-  right: 65px;
+  left: 10px;
   top: 0px;
   text-align: center;
 }
+
