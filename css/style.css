@@ -34,6 +34,7 @@ h1, h3 {
 #logoholder a {
   text-decoration: none;
   padding-bottom: 50px;
+  color: red;
 }
 
 #logoholder p {
@@ -76,9 +77,20 @@ h1, h3 {
   text-align: center;
 }
 
-#menu li a:hover {
+#menu li a:link,a:visited {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+#menu li a:hover, a:active {
   background-color: #e70b0b;
   color: #fff; 
+}
+
+.active {
+  background-color: #e70b0b;
+  color: #fff;    
 }
 
 #logoholder, #menu {
