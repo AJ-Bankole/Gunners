@@ -83,7 +83,7 @@ h1, h3 {
 }
 
 
-#menu li a:hover, a:active {
+#menu li a:hover {
   background-color: #e70b0b;
   color: #fff; 
 }
