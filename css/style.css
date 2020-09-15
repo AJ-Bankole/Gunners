@@ -171,6 +171,25 @@ h1, h3 {
     padding-left: 35px;
 }
 
+.subreddit-widget #o-subs {
+    padding-top: 20px;
+}
+
 .other-subs {
-    padding-top: 60px;
+    width: 200px;
+    height: 300px;
+    list-style-type:none;
+}
+
+.other-subs li {
+    text-align: center;
+    font-size: 120%;
+    padding: 10px;
+    border: solid 2px #fff;
+    background-color: red;
+}
+
+.other-subs a:link, a:visited {
+    color: #fff;
+    text-decoration: none;
 }
