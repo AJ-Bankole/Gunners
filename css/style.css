@@ -105,7 +105,7 @@ h1, h3 {
 }
 
 .content-1-title {
-  padding-left: 140px;
+  padding-left: 240px;
   padding-top: 20px;
 }
 
@@ -123,10 +123,10 @@ h1, h3 {
   position: relative;
   float: left;
   padding: 5px;
-  padding-right: 50px;
+  padding-right: 100px;
   border-right: solid 1px #a7a7a7;
-  left: 100px;
-  width: 500px;
+  padding-left: 120px;
+  width: 600px;
   display: inline;
 }
 
@@ -138,11 +138,11 @@ h1, h3 {
 
 #Reddit-IMG-Ad {
   position: relative;
-  right: 40px;
+  right: 0px;
   top: 100px;
   float: right;
   display: inline;
-  
+  top: -28px;
   width: 300px;
   height: 100%;
 
@@ -150,14 +150,27 @@ h1, h3 {
 
 #Reddit-IMG-Ad img {
   position: relative;
-  right: 50px;
-  padding: 30px;
-  border: 2px solid #a7a7a7;
+  left: 5px;
+  padding-bottom: 60px;
 }
 
 #Reddit-IMG-Ad h3 {
   position: relative;
-  right: 65px;
+  right: 42px;
   top: 0px;
   text-align: center;
+}
+
+.subreddit-widget {
+    position: relative;
+    right: 70px;
+}
+
+.subreddit-widget h4 {
+    text-align: center;
+    padding-left: 35px;
+}
+
+.other-subs {
+    padding-top: 60px;
 }
