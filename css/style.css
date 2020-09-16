@@ -129,7 +129,7 @@ h1, h3 {
   background-color: white;
   width: 95%;
   display: block;
-  overflow: auto;
+  overflow: hidden;
   margin: 10px auto;
   border: 1px solid white;
   border-radius: 25px;
@@ -212,6 +212,43 @@ h1, h3 {
 
 .fixture-dropdown {
     color: #fff;
-    background-color: #e70b0b;
+    background-color: #a7a7a7;
+    position: relative;
+    left: 17%;
+    font-size: 250%;  
+    text-align: center;
+    width: 67%;
+    border: 2px #fff solid;
+    outline: none;
+}
+
+.fixture-dropdown:hover {
+    background-color: red;
+}
+
+.fixtures {
+    padding: 0 10px;
+    border: 1px solid #fff;
+    width: 67%;
+    position: relative;
+    left: 36%;
+    
+    
     
 }
+
+.fixtures ul {
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+    
+    
+}
+
+
+.ind-fixture li {
+    
+    text-align: center;
+    
+}
+
