@@ -290,3 +290,11 @@ h1, h3 {
     
 }
 
+.official-panel {
+    height: 200px;
+    width: 90%;
+    display: block;
+    margin: 1% 0% 1% 5%;
+    position: relative;
+    border: 2px #a7a7a7 solid;
+}
