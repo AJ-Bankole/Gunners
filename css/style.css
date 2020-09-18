@@ -24,7 +24,7 @@ h1, h3 {
 
 #logo {
   color: red;
-  display: inherit;
+  display: inline;
   font-size: 40px;
   position: relative;
   bottom: 75px;
@@ -35,6 +35,11 @@ h1, h3 {
   text-decoration: none;
   padding-bottom: 50px;
   color: red;
+}
+
+img.logo-img {
+    width: 150px;
+    height: 150px;
 }
 
 #logoholder p {
@@ -69,6 +74,7 @@ h1, h3 {
 #menu li:last-child {
   border-left: 2px solid #fff;
   border-right: none;
+  float: right;
 }
 
 #menu li a {
@@ -297,4 +303,149 @@ h1, h3 {
     margin: 1% 0% 1% 5%;
     position: relative;
     border: 2px #a7a7a7 solid;
+    
+}
+
+
+@media screen and (max-width: 900px) {
+
+}
+
+@media screen and (max-width: 500px) {
+    #menu li {
+        width: 100%;
+        float: none;
+        border: 1px #fff solid; 
+
+    }
+
+    body {
+        width: 100%;
+    }
+
+    #logoholder {
+    padding-bottom: 5px;
+    height: 100px;
+     position: relative;
+    }   
+
+    #logo {
+    color: red;
+    display: inline;
+    font-size: 40px;
+    position: relative;
+    bottom: 60px;
+    left: 5px;
+    }
+
+    #logoholder a {
+    text-decoration: none;
+    padding-bottom: 0px;
+    color: red;
+    }
+
+
+
+    #logoholder p {
+    position: relative;
+    bottom: 60px;
+    left: 110px;
+    height: 50px;
+    width: 250px;
+    line-height: 15px;
+    }
+
+    #logoholder, #menu {
+    line-height: 25px;
+    }
+
+    img.logo-img {
+        width: 100px;
+        height: 100px;
+    }
+
+    header {
+        width: 100%;
+        display: inline;
+        
+    }
+
+    #hero-image {
+        display: none;
+    }
+
+    .content-1-title {
+    padding: 10px 0;
+    text-align: center;
+    }
+
+    .content-1 {
+    background-color: white;
+    width: 95%;
+    display: block;
+    overflow: auto;
+    margin: 10px auto;
+    border: 1px solid white;
+    border-radius: 25px;
+    text-align: center;
+    }
+
+    .reddit-top-month {
+    position: relative;
+    float: none;
+    padding: 5px;
+    padding-right: 0px;
+    border-right: solid 1px #a7a7a7;
+    padding-left: 0px;
+    width: 100%;
+    display: inline;
+    }
+
+    #Reddit-IMG-Ad {
+    position: relative;
+    right: 0px;
+    top: 100px;
+    float: none;
+    display: inline-block;
+    }
+
+    #Reddit-IMG-Ad h3 {
+    position: relative;
+    right: 0px;
+    top: 0px;
+    text-align: center;
+    }
+
+    .subreddit-widget {
+        position: relative;
+        right: 10%;
+        
+        object-position: center;
+    }
+
+    .subreddit-widget h4 {
+        text-align: center;
+        padding-left: 20%;
+    }
+
+    .subreddit-widget #o-subs {
+        padding-top: 20px;
+    }
+
+    .other-subs {
+        width: 200px;
+        height: 300px;
+        list-style-type:none;
+    }
+
+    .other-subs li {
+        text-align: center;
+        font-size: 120%;
+        padding: 10px;
+        border: solid 2px #fff;
+        background-color: red;
+        position: relative;
+        left: 25%;
+    }
+
 }
