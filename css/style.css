@@ -140,6 +140,7 @@ img.logo-img {
   border: 1px solid white;
   border-radius: 25px;
   margin-bottom: 4%;
+  padding-bottom: 2%;
 }
 
 .reddit-top-month {
@@ -448,4 +449,46 @@ img.logo-img {
         left: 25%;
     }
 
+    div.fixtures {
+        width: 67%;
+        left:14%;
+    }
+
+        .squad-row {
+        height: 300px;
+        width: 100%;
+        display: inline;
+        padding-left: 0%;
+        margin-bottom: 10px;
+    }
+
+    .squad-member {
+        display: inline-flex;
+        width: 95%;
+        height: 226px;
+        border-top: 2px #a7a7a7 solid;
+        padding: 0px;
+        position: relative;
+        margin-bottom: 5px;
+        margin-left: 8px;
+    }
+
+    img.squad-img {
+        width: 176px;
+        height: 226px;
+        
+    }
+
+    .squad-profile {
+        padding-left: 2px;
+    }
 }
+
+@media screen and (max-width:350px) {
+        #logoholder p {
+        width: 210px;
+        font-size: 85%;
+        }
+
+       
+    }
