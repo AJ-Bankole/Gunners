@@ -33,10 +33,12 @@ This section is also where you would share links to any wireframes, mockups, dia
 2. **Homepage links** - Contains non-embedded links to other subreddits, and a link for non-users to sign up and join reddit.
 3. **Fixtures page** - Contains a list of upcoming fixtures for the 20/21 season.
 4. **Squad page** - Contains a list of players in the current squad.
-5. **Official page** - Contains links to the clubs official channels (Website, Social media), as well as links to official merchandising.
+5. **Official Footer** - Contains links to the clubs official channels (Website, Social media), as well as links to official merchandising.
 6. **Our Friends page** - Contains links to other Arsenal fan projects, such as *AFTV* and *Arseblog*.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+### Scrapped Features:
+
+1. **Official page** - Contains links to the clubs official channels (Website, Social media), as well as links to official merchandising. Felt archaic; decided to replace it with a footer on every page which serves the same purpose.
 
 ### Features Left to Implement
 
