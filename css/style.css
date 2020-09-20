@@ -371,6 +371,12 @@ img.logo-img {
     display: block;
 }
 
+.site-footer {
+    height: 150px;
+    background-color: #fff;
+    display: block;
+}
+
 @media screen and (max-width: 900px) {
 
 }
