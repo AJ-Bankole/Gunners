@@ -373,8 +373,35 @@ img.logo-img {
 
 .site-footer {
     height: 150px;
-    background-color: #fff;
-    display: block;
+    background-color: #a7a7a7;
+    /*padding: 25px 10%;*/
+    overflow: hidden;
+}
+
+.site-footer ul {
+    display: inline-block;
+    width: 200px;
+    margin: 1%;
+    padding: 0 15%;
+    list-style-type: none;
+    color: #fff;
+    text-align: center;
+}
+
+.site-footer a:link, a:visited {
+    text-decoration: none;
+    color: #fff;
+}
+
+.site-footer a:hover {
+    color: #e70b0b;
+}
+
+.site-footer li:first-child {
+    padding-bottom: 10px;
+    font-weight: bolder;
+    text-decoration: underline;
+    
 }
 
 @media screen and (max-width: 900px) {
@@ -523,7 +550,7 @@ img.logo-img {
         left:14%;
     }
 
-        .squad-row {
+    .squad-row {
         height: 300px;
         width: 100%;
         display: inline;
