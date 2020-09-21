@@ -60,24 +60,35 @@ I used code from the following websites:
 
 ### Testing
 
-* **Validator issues**
+#### Validator issues
 
-- I learned that h(1-6) elements cannot exist inside span elements because they are block-level & inline element respectively. To fix this, I changed <span> elements to <div>
+* I learned that <h(1-6)> & <ul> elements cannot exist inside span elements because they are block-level & inline element respectively. To fix this, I changed <span> elements to <div>.
+
+
+#### Manual tests
+
+* All external links are working as expected; all direct to a new tab, no broken links.
+
+* Navigation bar is fully functional- Hover & Active work fine.
+
+* All images are available from their URL sources, all contain alt attribute.
+
+* Responsive; every page is compatible with both Mobile & Tablet screens.
+
+* Embedded content; all embedded content on index.html works as expected.
+
+
+#### Issues
+
+* Embedded files on index.html take a while to load; not too long but noticable.
+
+* *Top posts of the month* section on index.html has to be manually updated with new embeds every month / as often as needed (whenever there are more highly rated posts within that timeframe)
 
 
 
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
-Deployment
+### Deployment
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
 
 In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
@@ -87,10 +98,29 @@ Different configuration files?
 Separate git branch?
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
-Credits
-Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from ...
-Acknowledgements
-I received inspiration for this project from X
+### Credits
+
+#### Images used in my website were obtained from:
+
+* Logo - r/gunners logo obtained from https://twitter.com/rslashgunners
+
+* Hero image - obtained from https://thefa.com
+
+* Squad images - obtained from https://www.premierleague.com/clubs/1/Arsenal/squad
+
+* AFTV logo - obtained from https://aftvstore.com
+
+* Arseblog logo - obtained from https://podcasts.apple.com
+
+* Handbrake off logo - obtained from https://theathletic.com
+
+* Pain in the arsenal logo - obtained from https://paininthearsenal.com
+
+#### Content
+
+The embedded content on index.html are from https://reddit/r/gunners (Top posts of the months) and from https://redditjs.com (Reddit widget which has a more robust version of r/gunners)
+
+#### Acknowledgement
+
+This project was directly inspired by r/gunners and by Arsenal Football Club in general.
+
