@@ -13,6 +13,10 @@ The goal of this project is to bridge the gap between the subreddit's community 
 
 This website isn't exclusively a hub for r/gunners however, as there are a number of other pages which provide information about various aspects around the club.
 
+### Design 
+
+I choose to use a simple color scheme of Red, White & Grey. Red & White are the main colors of Arsenal, so naturally these colours are a big part of the design in this project. The grey parts of the website exist to give the website it's own identity. Couple with the font choice, I tried to go for something 'very Arsenal' but quite sleek at the same time.
+
 
 ### User Stories:
 
@@ -22,8 +26,6 @@ This website isn't exclusively a hub for r/gunners however, as there are a numbe
 * I **am** a reddit user, and also an Arsenal fan. Reddit can be overwhelming & distracting sometimes; I'd like a shortcut to my favorite subreddit so I don't end up spending more time on the site/app than I plan to.
 
 
-
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
 ## Features
 
@@ -62,7 +64,16 @@ I used code from the following websites:
 
 #### Validator issues
 
-* I learned that <h(1-6)> & <ul> elements cannot exist inside span elements because they are block-level & inline element respectively. To fix this, I changed <span> elements to <div>.
+
+* I learned that heading and ul elements cannot exist inside span elements because they are block-level & inline element respectively. To fix this, I changed my span elements to div elements but kept the classes the same.
+
+Validator screens:
+
+assets/readme-files/html-validator1.png
+assets/readme-files/html-validator2.png
+assets/readme-files/html-validator3.png
+assets/readme-files/html-validator4.png
+assets/readme-files/css-validator.png
 
 
 #### Manual tests
@@ -87,16 +98,16 @@ I used code from the following websites:
 
 #### User stories / Evidence
 
-![Screenshot 1](https://ibb.co/Z82MDfr "streamlined version of reddit")
-![Screenshot 2](https://ibb.co/4JVKztw "info about the club; fixtures")
-![Screenshot 3](https://ibb.co/t3wfmX3 "info about the club; squad")
-![Screenshot 4](https://ibb.co/mNd2pvs "info about the club; related sources")
-![Screenshot 5](https://ibb.co/sFHY9fK "mobile compatible")
-![Screenshot 6](https://ibb.co/yNqZnjS "tablet compatible")
+![Screenshot 1](assets/readme-files/index-screen.png "streamlined version of reddit")
+![Screenshot 2](assets/readme-files/fixtures-screen.png "info about the club; fixtures")
+![Screenshot 3](assets/readme-files/squad-screen.png "info about the club; squad")
+![Screenshot 4](assets/readme-files/friends-screen.png "info about the club; related sources")
+![Screenshot 5](assets/readme-files/mobile-screen.png "mobile compatible")
+![Screenshot 6](assets/readme-files/tablet-screen.png "tablet compatible")
 
 
 ### Deployment
-I deployed this website through the Github repository by going to settings and selecting the *master* branch for Github Pages.
+I deployed this website through the Github repository by going to settings and selecting the *master* branch for Github Pages. It then gave me a link which my website will be hosted on.
 The deployed version of my website seems to be fully functional; there are no differences between deployed page and development page.
 
 ### Credits
