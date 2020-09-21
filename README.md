@@ -69,11 +69,11 @@ I used code from the following websites:
 
 Validator screens:
 
-assets/readme-files/html-validator1.png
-assets/readme-files/html-validator2.png
-assets/readme-files/html-validator3.png
-assets/readme-files/html-validator4.png
-assets/readme-files/css-validator.png
+![Validator 1](assets/readme-files/html-validator1.png "validator1")
+![Validator 2](assets/readme-files/html-validator2.png "validator2")
+![Validator 3](assets/readme-files/html-validator3.png "validator3")
+![Validator 4](assets/readme-files/html-validator4.png "validator4")
+![Validator 5](assets/readme-files/css-validator.png "validator5")
 
 
 #### Manual tests
