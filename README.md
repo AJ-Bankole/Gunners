@@ -103,19 +103,49 @@ The deployed version of my website seems to be fully functional; there are no di
 
 #### Images used in my website were obtained from:
 
-* Logo - r/gunners logo obtained from https://twitter.com/rslashgunners
+* Gunners logo - obtained from https://pbs.twimg.com/profile_images/1101428216881799169/IbAuFj7w_400x400.jpg
 
-* Hero image - obtained from https://thefa.com
+* Hero image - obtained from https://thefa.shorthandstories.com/fa-cup-finals-the-winners-list/assets/zKWQGNclL4/2560-arsenal-celeb-2560x1440.jpeg
 
 * Squad images - obtained from https://www.premierleague.com/clubs/1/Arsenal/squad
 
-* AFTV logo - obtained from https://aftvstore.com
+https://resources.premierleague.com/premierleague/photos/players/110x140/p444145.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p84450.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p113534.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p209289.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p111457.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p205533.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p242166.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p200089.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p153256.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p200641.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p41270.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p101184.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p69140.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p195735.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p156074.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p154043.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p54694.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p47431.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p198849.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p37605.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p59966.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p182539.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p223340.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p226597.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p39476.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p462424.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p192895.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p98745.png
+https://resources.premierleague.com/premierleague/photos/players/110x140/p80201.png
 
-* Arseblog logo - obtained from https://podcasts.apple.com
+* AFTV logo - obtained from https://aftvstore.com/wp-content/uploads/2018/08/aftvlogo-update.png
 
-* Handbrake off logo - obtained from https://theathletic.com
+* Arseblog logo - obtained from https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/2d/05/b1/2d05b119-d3ec-1aa8-19db-08df5fa9833f/mza_1448965523987184104.jpg/268x0w.jpg
 
-* Pain in the arsenal logo - obtained from https://paininthearsenal.com
+* Handbrake off logo - obtained from https://cdn.theathletic.com/app/uploads/2019/11/25053644/HandbrakeOff.jpg
+
+* Pain in the arsenal logo - obtained from https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fimages2.minutemediacdn.com%2Fimage%2Ffetch%2Fc_fill%2Cf_auto%2Cw_1000%2Ch_1000%2Fhttps%3A%2F%2Ffansided.com%2Fwp-content%2Fassets%2Fsite_images%2Fsoccer%2Fpaininthearesnal%2Flogo_paininthearsenal-com.png
 
 #### Content
 
