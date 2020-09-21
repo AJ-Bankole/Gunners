@@ -85,7 +85,14 @@ I used code from the following websites:
 * *Top posts of the month* section on index.html has to be manually updated with new embeds every month / as often as needed (whenever there are more highly rated posts within that timeframe)
 
 
+#### User stories / Evidence
 
+![Screenshot 1](https://ibb.co/Z82MDfr "streamlined version of reddit")
+![Screenshot 2](https://ibb.co/4JVKztw "info about the club; fixtures")
+![Screenshot 3](https://ibb.co/t3wfmX3 "info about the club; squad")
+![Screenshot 4](https://ibb.co/mNd2pvs "info about the club; related sources")
+![Screenshot 5](https://ibb.co/sFHY9fK "mobile compatible")
+![Screenshot 6](https://ibb.co/yNqZnjS "tablet compatible")
 
 
 ### Deployment
