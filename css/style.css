@@ -661,7 +661,7 @@ img.logo-img {
             display: inline-block;
             margin: 1%;
             position: relative;
-            padding-bottom: 20px;
+            padding-bottom: 0px;
             text-align: center;
             
     }
@@ -680,7 +680,7 @@ img.logo-img {
             max-width: 100%;
             max-height: 100%;
             display: block;
-            padding-left: 12%;
+            padding-left: 6%;
             
     }
 
@@ -690,8 +690,8 @@ img.logo-img {
             text-align: center;
             position: relative;
             left: 20%;
-            top: 20%;
-            margin-bottom: 20px;
+            top: 0%;
+            margin-bottom: 0;
     }
 
     .friend-content p {
@@ -708,7 +708,7 @@ img.logo-img {
 
     .friend-content h4 {
         position: relative;
-        right: 20%;
+        right: 0%;
     }
 
     .friend-content h4 a {
