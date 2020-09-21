@@ -255,9 +255,15 @@ img.logo-img {
 
 
 .ind-fixture li {
-    
+    width: 100%;
+    line-break: auto;
     text-align: center;
     
+}
+
+.ind-fixture li b {
+    font-weight: bolder;
+    color:#e70b0b;
 }
 
 .squad-row {
