@@ -540,6 +540,7 @@ img.logo-img {
     .content-1-title {
         padding: 10px 0;
         text-align: center;
+        left: 6px;
     }
 
     .content-1 {
@@ -551,6 +552,7 @@ img.logo-img {
         border: 1px solid white;
         border-radius: 25px;
         text-align: center;
+        
     }
 
     .reddit-top-month {
@@ -562,6 +564,7 @@ img.logo-img {
         padding-left: 0px;
         width: 100%;
         display: inline;
+        left: 1px;
     }
 
     #Reddit-IMG-Ad {

@@ -51,14 +51,14 @@ This section is also where you would share links to any wireframes, mockups, dia
 
 I used code from the following websites:
 
-* **Reddit.com** - I embedded some posts from Reddit on my website
+* **Reddit.com** - I embedded 6 posts directly from reddit.com/r/gunners
 * **Redditjs.com** - I embedded a widget from Redditjs in order to have a mini version of r/gunners on my homepage.
 
 
 
 
 
-Testing
+### Testing
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
