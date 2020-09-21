@@ -300,11 +300,11 @@ img.logo-img {
 .friends-panel {
     height: 300px;
     width: 97.5%;
-    display: block;
+    display: inline-flex;
     margin: 1%;
     position: relative;
     border: 3px solid #a7a7a7;
-
+    text-align: center;
     
 }
 
@@ -324,7 +324,18 @@ img.logo-img {
     padding-left: 10%;
 }
 
+.friend-content {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    position: relative;
+    
+}
 
+.friend-content p {
+    width: 200px;
+    line-break: auto;
+}
 
 .site-footer {
     height: 150px;
