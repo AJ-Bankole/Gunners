@@ -303,7 +303,7 @@ img.logo-img {
     display: inline-flex;
     margin: 1%;
     position: relative;
-    border: 3px solid #a7a7a7;
+    
     text-align: center;
     
 }
@@ -313,7 +313,7 @@ img.logo-img {
     width: 40%;
     height: 100%;
     display: block;
-    border-right: 2px solid #a7a7a7;
+    
     
 }
 
@@ -326,15 +326,35 @@ img.logo-img {
 
 .friend-content {
     width: 200px;
-    height: 200px;
+    height: 260px;
     text-align: center;
     position: relative;
+    left: 20%;
+    top: 20%;
+}
+
+.friends-panel a a:link, a:visited {
     
 }
 
 .friend-content p {
     width: 200px;
+    height: 200px;
     line-break: auto;
+}
+
+.friend-content p a {
+    color: #e70b0b;
+    text-decoration: underline;
+}
+
+
+.friend-content h4 a {
+    font-size: 150%;
+    font-weight: bolder;
+    text-decoration: underline;
+    color: #e70b0b;
+   
 }
 
 .site-footer {
