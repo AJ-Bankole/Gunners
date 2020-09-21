@@ -751,7 +751,7 @@ img.logo-img {
         
     }
     
-
+}
 @media screen and (max-width:350px) {
         #logoholder p {
         width: 210px;
@@ -766,7 +766,5 @@ img.logo-img {
         .friend-content p {
             position: relative;
             right: 4%;
-
         }
-       
-    }
+}
